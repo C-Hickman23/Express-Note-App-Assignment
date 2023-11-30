@@ -9,6 +9,9 @@
   "author": "Cardon Hickman",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "Router": "^2.1.0",
+    "uuid": "^9.0.0"
   }
 }
