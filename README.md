@@ -4,7 +4,9 @@
 
 ## Description
 
-A Webiste to keep track of notes
+A Website to keep track of notes
+
+![Alt text](image.png)
 
 ## Table of Contents
 
